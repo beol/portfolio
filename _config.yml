@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: www.johnwolfe.io
-baseurl: 
+# url: www.johnwolfe.io
+baseurl: "/"   
 title: John Wolfe
 author: John Wolfe
 description: Personal blog and resume
