@@ -12,14 +12,14 @@ safe: true
 
 # edit here to achieve your personal greatness
 # url: www.johnwolfe.io
-baseurl: "/"
-url: "https://www.johnwolfe.io"   
+baseurl: ""
+url: http://jwolfe890.github.io/   
 title: John Wolfe
 author: John Wolfe
 description: Personal blog and resume
 avatar: profile.png
 email: jwolfe890@gmail.com
-github: biomadeira/sustain # username
+github: jwolfe890 # username
 twitter: jwolfe820
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
@@ -30,3 +30,6 @@ google_analytics: UA-69391421-1
 
 # needed for travis-ci build
 exclude: [vendor]
+
+
+
